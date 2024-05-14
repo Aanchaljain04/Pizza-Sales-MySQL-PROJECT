@@ -22,13 +22,26 @@ By systematically dissecting the dataset and conducting various SQL queries, we 
 
 This repository is organized to facilitate a structured approach to the SQL project. The primary components include:
 
-1. **Database Creation Scripts**: Contains SQL scripts responsible for creating the necessary database schema and tables to house the pizza sales data. (https://github.com/Aanchaljain04/Pizza-Sales-SQL-PROJECT/blob/main/Dump%20File.sql)
+1. **Database Creation Scripts**: Contains SQL scripts responsible for creating the necessary database schema and tables to house the pizza sales data. ([Dump File.sql](https://github.com/Aanchaljain04/Pizza-Sales-SQL-PROJECT/blob/main/Dump%20File.sql))
 
-2. **SQL Queries**: Comprises a comprehensive set of SQL queries designed to address specific analysis objectives. Queries are structured, commented, and organized to ensure clarity and ease of understanding. (https://github.com/Aanchaljain04/Pizza-Sales-SQL-PROJECT/blob/main/SQL_Queries_pizza_sales_Project.sql)
+2. **SQL Queries**: Comprises a comprehensive set of SQL queries designed to address specific analysis objectives. Queries are structured, commented, and organized to ensure clarity and ease of understanding. ([SQL Queries_pizza_sales_Project.sql](https://github.com/Aanchaljain04/Pizza-Sales-SQL-PROJECT/blob/main/SQL_Queries_pizza_sales_Project.sql))
 
 3. **Insights and Findings**: Documentation of insights derived from the SQL analysis. This section presents key findings, trends, and observations uncovered through the exploration of the dataset.
 
 4. **Documentation**: Supplementary documentation providing context, methodology, and any additional information relevant to the project.
+
+## Functions and Methods Used
+
+- **Aggregation**: Count(), Sum(), Round(), Average(), Max()
+- **String Manipulation**: UCASE()
+- **Date & Time**: HOUR(), DAY(), DATE(), DAYNAME(), MONTH(), MONTHNAME()
+- **Join Operations**: Joins
+- **Grouping & Sorting**: Group by, Order by
+- **Common Table Expressions (CTE)**
+- **Aliases**
+- **Subqueries**
+- **Window Functions**: SUM(), DENSE_RANK()
+- **Cumulative Sum**
 
 ## How to Use
 
@@ -42,7 +55,7 @@ To utilize this project effectively, follow these steps:
 
 4. **Further Analysis**: Feel free to extend the analysis by incorporating additional SQL queries or refining existing ones to explore specific aspects of interest.
 
-By following these steps, you can effectively utilize the MySQL project for analyzing pizza sales data and extracting valuable insights to inform decision-making and strategy development. If you encounter any issues or have questions during the process, feel free to reach out to me at aanchal04jain@gmail.com or https://www.linkedin.com/in/aanchal-jain-38a800180/
+By following these steps, you can effectively utilize the MySQL project for analyzing pizza sales data and extracting valuable insights to inform decision-making and strategy development. If you encounter any issues or have questions during the process, feel free to reach out to me at aanchal04jain@gmail.com or [LinkedIn](https://www.linkedin.com/in/aanchal-jain-38a800180/).
 
 ## Reach me at:
 
