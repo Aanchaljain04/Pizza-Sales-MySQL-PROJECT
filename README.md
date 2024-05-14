@@ -33,8 +33,6 @@ By systematically dissecting the dataset and conducting various SQL queries, we 
 - **Window Functions**: SUM(), DENSE_RANK()
 - **Cumulative Sum**
 
-Great job summarizing the insights from your analysis! Here are some tailored recommendations based on these insights:
-
 ## Insights & Recommendations:
 
 1. **Promotions During Off-Peak Hours**: Offer special discounts or promotions during the period of reduced orders between 2pm to 5pm to incentivize customers to order during these times. This can help boost sales during slower periods.
