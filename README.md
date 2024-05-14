@@ -1,5 +1,14 @@
 # Pizza Sales SQL Project
 
+
+
+
+
+https://github.com/Aanchaljain04/Pizza-Sales-MySQL-PROJECT/assets/47006604/1c16fa14-3f58-4e8f-a958-df3d591a8522
+
+
+
+
 Welcome to the Pizza Sales SQL project! This repository hosts an end-to-end SQL project focused on analyzing pizza sales data. The project encompasses database creation, data querying, and deriving actionable insights from the dataset.
 
 ## About the Dataset
