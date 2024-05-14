@@ -44,14 +44,7 @@ To utilize this project effectively, follow these steps:
 
 By following these steps, you can effectively utilize the MySQL project for analyzing pizza sales data and extracting valuable insights to inform decision-making and strategy development. If you encounter any issues or have questions during the process, feel free to reach out to me at aanchal04jain@gmail.com or https://www.linkedin.com/in/aanchal-jain-38a800180/
 
-## Contributing
+## Reach me at:
 
-Contributions to this project are welcome and encouraged. If you have suggestions for improving existing analyses, identifying new insights, or enhancing documentation, please feel free to submit a pull request.
-
-## Acknowledgments
-
-Special thanks to the contributors and stakeholders involved in curating the dataset and facilitating this analysis project.
-
----
-
-This README serves as an introduction to the Pizza Sales SQL project, providing an overview of its objectives, structure, and usage guidelines. Explore the repository to delve deeper into the analysis and uncover valuable insights from the pizza sales dataset.
+- Mail: [![Email](https://img.shields.io/badge/Email-Aanchal04jain%40gmail.com-red)](mailto:Aanchal04jain@gmail.com)
+- Linkedin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aanchal%20Jain-blue)](https://www.linkedin.com/in/aanchal-jain-38a800180/)
